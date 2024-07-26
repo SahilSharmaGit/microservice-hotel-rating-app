@@ -1,0 +1,8 @@
+
+z
+java:S2259""NA "NullPointerException" could be thrown; "getRefreshToken()" can return null.(Á°¼î8Ø•ñ0HøRMAJORZBUG
+ƒ
+java:S1612%"KReplace this lambda with method reference 'GrantedAuthority::getAuthority'.(õŒş–ùÿÿÿÿ8Ø•ñ0HûRMINORZ
+CODE_SMELL
+|
+java:S2259#"KA "NullPointerException" could be thrown; "getExpiresAt()" can return null.(²Ã·ºùÿÿÿÿ8Ø•ñ0HıRMAJORZBUG
